@@ -57,6 +57,8 @@ Before running this project, ensure you have the following:
 2. **YOLOv10 Object Detection**:
    - Detects objects in real-time using a lightweight YOLOv10 model.
    - Draws bounding boxes and positional details on the video feed.
+   - ![image](https://github.com/user-attachments/assets/e3576d59-7804-4c34-8502-52d3ccee5f84)
+
 3. **Interactive Assistant**:
    - Processes detected objects and engages users with natural language explanations.
    - Allows follow-up queries to enhance user experience.
