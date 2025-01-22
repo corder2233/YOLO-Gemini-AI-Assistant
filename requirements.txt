@@ -1,4 +1,3 @@
 opencv-python
 ultralytics
 google-generativeai
-os
