@@ -17,6 +17,7 @@ Before running this project, ensure you have the following:
 
 - Python 3.8 or higher
 - Required Python libraries (included in `requirements.txt`)
+- Generate Google Gemini API key
 
 ## Setup
 
@@ -24,15 +25,19 @@ Before running this project, ensure you have the following:
    ```bash
    git clone <repository-url>
    ```
-2. Navigate to the project directory:
+2. Generate Gemini API key:
+   ```bash
+   https://aistudio.google.com/app/apikey
+   ```
+3. Navigate to the project directory:
    ```bash
    cd yolo_gemini_assistant
    ```
-3. Install the required packages:
+4. Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
-4. Ensure your Gemini API key is valid and replace the placeholder in the code with your key.
+5. Ensure your Gemini API key is valid and replace the placeholder in the code with your key.
 
 ## How to Run
 
